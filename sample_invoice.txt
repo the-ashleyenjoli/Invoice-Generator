@@ -1,0 +1,16 @@
+=========== INVOICE ===========
+Invoice #: 123456789
+Date: 04/10/2025
+-------------------------------
+Influencer: Jane Doe
+Client: CoolBrand
+Email: contact@coolbrand.com
+-------------------------------
+Service                  Rate      Qty       Total
+Instagram Post           $150.00   1         $150.00
+Story Shoutout           $75.00    2         $150.00
+-------------------------------
+Subtotal: $300.00
+Tax (8.5%): $25.50
+Total Due: $325.50
+===============================
